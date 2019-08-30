@@ -1,4 +1,4 @@
-let contractAddress = '0xd6ac2902bb29d9f89d99932431717d23c76a0b1b68567e8bd723d40e0b4e11b2';
+let contractAddress = '0x58f171251317c001a3442196219cbb05a7eb0ac9';
 let abi =
 [
 	{
